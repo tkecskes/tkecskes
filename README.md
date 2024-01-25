@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tkecskes
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning about ML
+- 💞️ I’m looking to collaborate on OS projects
+- ⚡ Fun fact: I like to think about audio DSP
